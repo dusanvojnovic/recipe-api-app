@@ -1,1 +1,1 @@
-# recipe-api-app
+django-rest-framework-recipe-api-app
